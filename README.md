@@ -11,7 +11,7 @@ I am a student in 42 Málaga, a coding school based on peer to peer learning and
 
 <a href="https://www.github.com/juan-est145" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/juan-est145?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
-
+<a href="https://www.github.com/juan-est145"></a><img src="https://www.codewars.com/users/juan_est145/badges/large" alt="Codewars level">
 ### Skills
 
 
