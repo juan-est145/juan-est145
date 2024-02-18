@@ -29,6 +29,5 @@ src="https://img.shields.io/github/followers/juan-est145?logo=github&style=for-t
 <a href="http://www.github.com/juan-est145"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juan-est145&stroke=ffffff&background=000000&ring=f97316&fi![github-header-image (2)](https://github.com/juan-est145/juan-est145/assets/128648875/bbc1da5a-7b5d-4f55-b94a-92f5728e25a0)
 re=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/juan-est145" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-est145&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-est145&langs_count=12&hide=HLSL,shaderlab&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
