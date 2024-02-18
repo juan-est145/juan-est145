@@ -26,7 +26,5 @@ src="https://img.shields.io/github/followers/juan-est145?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=juan-est145&border_radius=5.7&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-est145&langs_count=10&hide=HLSL,shaderlab)](https://github.com/anuraghazra/github-readme-stats)
 
