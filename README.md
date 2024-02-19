@@ -26,5 +26,12 @@ src="https://img.shields.io/github/followers/juan-est145?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
+<<<<<<< HEAD
+[![GitHub Streak](https://streak-stats.demolab.com?user=juan-est145&border_radius=5.7&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+=======
+<a href="http://www.github.com/juan-est145"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juan-est145&stroke=ffffff&background=000000&ring=f97316&fi![github-header-image (2)](https://github.com/juan-est145/juan-est145/assets/128648875/bbc1da5a-7b5d-4f55-b94a-92f5728e25a0)
+re=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+>>>>>>> parent of c1802c7 (Update README.md)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-est145&langs_count=10&hide=HLSL,shaderlab)](https://github.com/anuraghazra/github-readme-stats)
 
