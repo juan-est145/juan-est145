@@ -28,4 +28,4 @@ src="https://img.shields.io/github/followers/juan-est145?logo=github&style=for-t
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=juan-est145&theme=tokyonight&border_radius=5.7&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-est145&langs_count=12&hide=HLSL,shaderlab&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-est145&size_weight=0.5&count_weight=0.5&langs_count=12&hide=HLSL,shaderlab&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
