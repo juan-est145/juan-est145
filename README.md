@@ -8,6 +8,7 @@ I am a student in 42 Málaga, a coding school based on peer to peer learning and
 
 * 🌍  I'm based in Malaga
 * ✉️  You can contact me at [juanestrella@hotmail.es](mailto:juanestrella@hotmail.es)
+* My 42 user profile is juestrel
 
 <a href="https://www.github.com/juan-est145" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/juan-est145?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
