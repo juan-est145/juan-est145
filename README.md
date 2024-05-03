@@ -16,7 +16,7 @@ src="https://img.shields.io/github/followers/juan-est145?logo=github&style=for-t
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,linux,unity,dotnet,bash,git,html,css,js,mysql,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,linux,unity,dotnet,bash,git,html,css,js,webpack,mysql,visualstudio,vscode)](https://skillicons.dev)
 
 
 ### Socials
