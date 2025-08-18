@@ -6,7 +6,7 @@ Interested in web and cybersecurity
 
 I am a student in 42 Málaga, a coding school based on peer to peer learning and making really cool projects. I also have a background in History, Geography and Digital Humanities. I look forward to learn more about tech and programming.
 
-* 🌍  I'm based in Malaga
+* 🌍  I'm based in Jaén
 * ✉️  You can contact me at [juanestrella@hotmail.es](mailto:juanestrella@hotmail.es)
 * My 42 user profile is juestrel
 
