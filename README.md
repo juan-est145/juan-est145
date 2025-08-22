@@ -16,7 +16,7 @@ src="https://img.shields.io/github/followers/juan-est145?logo=github&style=for-t
 ### General skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,linux,docker,unity,bash,postgres,git,github,vscode)](https://skillicons.dev)
 ### Web development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,express,nest,nodejs,prisma,webpack,postman,vite,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,express,nest,nodejs,prisma,webpack,postman,vite,jest)](https://skillicons.dev)
 
 ### Socials
 
@@ -29,3 +29,4 @@ src="https://img.shields.io/github/followers/juan-est145?logo=github&style=for-t
 [![GitHub Streak](https://streak-stats.demolab.com?user=juan-est145&theme=tokyonight&border_radius=5.7&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-est145&layout=pie&size_weight=0.5&count_weight=0.5&langs_count=12&hide=HLSL,shaderlab,html,makefile,dockerfile&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
